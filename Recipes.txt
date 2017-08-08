@@ -3,8 +3,7 @@
 Welcome
 
 Chicken Fry
-Beans
-Kheer
+Khir
 Appam
 Basmati Kheer
 Kantola
@@ -12,3 +11,6 @@ Kantola
 
 
 Thank you
+
+
+See you on Monday
